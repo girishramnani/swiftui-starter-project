@@ -14,7 +14,7 @@
 **Select Many lines**
 Control + Shift + Click
 
-##Find
+## Find
 
 **Find in File**
 Command + F
@@ -22,7 +22,7 @@ Command + F
 **Find and Replace in Project**
 Command + Shift + F
 
-##Find and Replace
+## Find and Replace
 Same as the above and select replace from the dropdown.
 
 # 📁 Projects
